@@ -1,0 +1,8 @@
+pydantic>=2.8
+pydantic-ai-slim[groq]>=0.0.24
+python-pptx>=1.0.2
+google-generativeai>=0.7.2
+markitdown[pptx]>=0.0.1a3
+Pillow>=10.4.0
+defusedxml>=0.7.1
+python-dotenv>=1.0.1
